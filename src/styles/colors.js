@@ -1,0 +1,58 @@
+export default {
+  theme: '#D82FB1',
+  loader: '#BB1DD8',
+  lighPink: '#FA2DFAC6',
+  gray: '#e9eaeb',
+  lightGrey:"#A1A1A1",
+  themePink:"#e32757",
+  greyBorderTxtInput:"#70707033",
+  darkBlueBtn:"#262F3E",
+  
+  black: 'rgba(20,19,19,1)',
+  blackOpacity10: 'rgba(0,0,0,0.1)',
+  blackOpacity12: 'rgba(0,0,0,0.12)',
+  blackOpacity15: 'rgba(0,0,0,0.15)',
+  blackOpacity20: 'rgba(0,0,0,0.20)',
+  blackOpacity25: 'rgba(0,0,0,0.25)',
+  blackOpacity40: 'rgba(0,0,0,0.4)',
+  blackOpacity50: 'rgba(0,0,0,0.5)',
+  blackOpacity60: 'rgba(0,0,0,0.6)',
+  blackOpacity70: 'rgba(0,0,0,0.7)',
+  blackOpacity80: 'rgba(0,0,0,0.8)',
+  blackOpacity90: 'rgba(0,0,0,0.9)',
+
+  white: '#FFFFFF',
+  whiteOpacity25: 'rgba(255, 255, 255, 0.2)',
+  whiteOpacity50: 'rgba(255, 255, 255, 0.5)',
+  whiteOpacity70: 'rgba(255, 255, 255, 0.7)',
+
+  OBSIDIAN: '#000000',
+  Blue: '#2874F0',
+  txtwhite: '#FFFFFF',
+  // gray: '#717171',
+  grayinput: '#F5F5F5',
+  D9D9D9: '#D9D9D9', // input field line
+  lightgray: '#959596', // input text color
+  greenterms: '#53E3AE',
+  pinInputField: '#F5F5F5',
+  citrine: '#F7B500', // onboard active dot color
+  BABABD: '#BABABD', // onboard inactive dot color
+  up_green: '#35B037',
+  low_red: '#E60023',
+  grayprice: '#7C7C7C',
+  F1F1F2: '#F1F1F2',
+  shadow: 'rgba(37,51,75,0.1)',
+  backround: 'rgba(255,255,255,0.8)',
+  shadowbg: 'rgba(67, 208, 182, 0.03)',
+  E8F5FF: '#E8F5FF',
+  FCEFE7: '#FCEFE7',
+  FBF6D9: '#FBF6D9',
+  EDFFF1: '#EDFFF1',
+  g878787: '#878787',
+  g929292: '#929292',
+  green: '#34C759',
+  C4C4C6: '#C4C4C6',
+
+  graphLightGrey:"#f6fafd",
+  graphGrey:"#8bb7e0",
+};
